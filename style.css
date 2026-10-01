@@ -1,0 +1,31 @@
+html, body{
+    margin: 0%;
+    padding: 0%;
+    background-color: aliceblue;
+}
+#sekcija{
+    margin-top: 10%;
+    background-color: aquamarine;
+    padding: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+#dugme{
+    background-color: black;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    border: solid white;
+    padding: 1%;
+}
+#ime,#godine{
+    padding: 3%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 90%;
+}
